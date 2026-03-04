@@ -15,7 +15,7 @@
 ## 🌟 About Me
 
 ✨ MCA Graduate from Kerala, India  
-💻 Full Stack Developer (MERN + Multi-language Developer)  
+💻 Full Stack Developer (Specialised in MERN Stack)  
 🔍 Actively looking for Software Developer roles  
 🌱 Currently learning Advanced Backend & System Design  
 📫 Contact: **mohammedalthafa037@gmail.com**
