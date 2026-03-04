@@ -123,7 +123,7 @@
   </a>
 
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://github.com/mohammedalthafkn758"/>
   </a>
 
   <a href="https://www.instagram.com/a_l_t_h_a_f___037">
