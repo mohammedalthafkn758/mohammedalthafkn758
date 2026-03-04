@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  🚀 MERN Stack Developer | 🎓 MCA Graduate | 💡 Passionate Software Engineer
+  🚀 Full Stack Developer | 🎓 MCA Graduate | 💡 Passionate Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Technologies;Open+to+Software+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Full+Stack+MERN+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+PHP;React+%7C+Node+%7C+MongoDB;Flutter+%7C+Dart+Developer;Always+Learning+New+Technologies;Open+to+Software+Opportunities" />
 </p>
 
 ---
@@ -15,20 +15,33 @@
 ## 🌟 About Me
 
 ✨ MCA Graduate from Kerala, India  
-💻 Specialized in MERN Stack Development  
+💻 Full Stack Developer (MERN + Multi-language Developer)  
 🔍 Actively looking for Software Developer roles  
 🌱 Currently learning Advanced Backend & System Design  
 📫 Contact: **mohammedalthafa037@gmail.com**
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Universe
 
-## 🎨 Frontend
+## 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🎨 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -37,19 +50,29 @@
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PHP-Backend-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
 </p>
 
 ---
 
-## 🗄️ Database
+## 🗄️ Database & DBMS
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-Concepts-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
 ---
@@ -79,20 +102,6 @@
 
 ---
 
-# 📂 Featured Projects
-
-## 🔹 Full Stack Web Application
-✔ MERN Stack  
-✔ Authentication & CRUD  
-✔ Responsive UI with Tailwind  
-
-## 🔹 Portfolio Website
-✔ React + Tailwind  
-✔ Fully Responsive  
-✔ Deployed Online  
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -104,24 +113,6 @@
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedalthafkn758&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedalthafkn758&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-</p>
-
----
-
-# 🤝 Connect With Me
 
 # 🤝 Connect With Me
 
@@ -147,4 +138,4 @@
 
 ---
 
-⭐️ *"Always Learning. Always Building. Always Growing."*
+⭐️ **"Always Learning. Always Building. Always Growing."**
